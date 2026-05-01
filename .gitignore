@@ -1,0 +1,19 @@
+# Model weights — large files
+*.pt
+*.pth
+*.onnx
+
+# YOLO training outputs
+runs/
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Environment variables
+.env
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db
